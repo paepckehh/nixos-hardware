@@ -4,8 +4,8 @@
   ...
 }: {
 imports = [
-    ../../../common/cpu/intel/kaby-lake
     ../../../common/gpu/intel
+    ../../../common/gpu/intel/kaby-lake
     ../../../common/pc/laptop
     ../../../common/pc/laptop/ssd
     ../../../common/pc/laptop/acpi_call.nix
